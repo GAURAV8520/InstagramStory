@@ -110,7 +110,7 @@ const StoriesContainer = () => {
                                     alt={s.title}
                                 />
                             </div>
-                            <span className="text-xs">{s.title}</span>
+                            <span className="text-xs items-center">{s.title}</span>
                         </div>
                     ))}
                 </Slider>
